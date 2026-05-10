@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Saad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20Python%20%7C%20Data%20Science%20%7C%20AI%2FML%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Saad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20Python%20%7C%20Data%20Science%20%7C%20AI%2FML%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/> -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Muhammad+Saad+%F0%9F%91%8B)](https://git.io/typing-svg)
 
@@ -145,7 +147,8 @@ Scratch 3 platformer game inspired by **Geometry Dash**, focused on timing, refl
 
 *"Building with today's code, evolving with tomorrow's AI, and shaping the future through intelligent systems."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> -->
 
 </div>
 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/> </div>
