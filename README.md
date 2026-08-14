@@ -118,12 +118,6 @@ Scratch 3 platformer game inspired by **Geometry Dash**, focused on timing, refl
 
 ---
 
-## 📊 GitHub Stats
-
----
-
----
-
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
