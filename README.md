@@ -11,10 +11,10 @@ Computer Science student · Python developer · Lahore, Pakistan
 <img src="./assets/focus.svg" width="420" alt="Currently building: AI agents, Python APIs, RAG applications, and voice workflows." />
 
 <p>
-  <a href="#projects">Explore projects</a> ·
-  <a href="#toolbox">Toolbox</a> ·
-  <a href="#learning">Learning in public</a> ·
-  <a href="#connect">Let's connect</a>
+  <a href="#user-content-projects">Explore projects</a> ·
+  <a href="#user-content-toolbox">Toolbox</a> ·
+  <a href="#user-content-learning">Learning in public</a> ·
+  <a href="#user-content-connect">Let's connect</a>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/muhammad-saad-271197329/)
@@ -151,7 +151,7 @@ I'm happy to talk about Python, APIs, AI agents, and what you're building.
 
 <i>I do it for the commit.</i>
 
-[Back to top ↑](#hi-im-muhammad-saad-)
+[Back to top ↑](#user-content-hi-im-muhammad-saad-)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=70&section=footer" width="100%" alt="" />
 
