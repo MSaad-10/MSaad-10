@@ -1,148 +1,158 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Saad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20Python%20%7C%20Data%20Science%20%7C%20AI%2FML%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/> -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=90&section=header" width="100%" alt="" />
 
+# Hi, I'm Muhammad Saad 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Muhammad+Saad+%F0%9F%91%8B)](https://git.io/typing-svg)
+**Building AI agents, useful APIs, and conversations with context.**
 
-<br/>
+Computer Science student · Python developer · Lahore, Pakistan
 
+<img src="./assets/focus.svg" width="420" alt="Currently building: AI agents, Python APIs, RAG applications, and voice workflows." />
+
+<p>
+  <a href="#projects">Explore projects</a> ·
+  <a href="#toolbox">Toolbox</a> ·
+  <a href="#learning">Learning in public</a> ·
+  <a href="#connect">Let's connect</a>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/muhammad-saad-271197329/)
+[![Email](https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.saad0011@gmail.com)
+[![Repositories](https://img.shields.io/badge/Explore_my_repos-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSaad-10?tab=repositories)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+I build with **Python and FastAPI**, connecting language models to tools, databases, and interfaces. My projects explore **AI agents**, **retrieval-augmented generation (RAG)**, and **voice workflows**.
 
-> *Computer Science student focused on Python, C++, and databases, with a growing interest in Data Science and AI/ML, actively building projects and strengthening problem-solving skills.*
+Along the way, I'm working on the pieces that make these applications useful: persistent conversations, authentication, document retrieval, and streamed responses. I share my Python and FastAPI learning through code and examples.
 
+## Projects
 
-- 💻 Building projects using **Python, C++, and databases** with a focus on practical learning  
-- 🧠 Strengthening **problem-solving skills** through Data Structures & Algorithms  
-- 📊 Exploring **Data Science and AI/ML** using tools like NumPy and Pandas  
-- 🌱 Currently learning **Python libraries, databases, and real-world application development**  
-- 📍 Based in **Lahore, Pakistan** 
+A few things I've been building. Open the details to see how each project works.
+
+### 🧮 [Arithma · Conversational Calculator](https://github.com/MSaad-10/langgraph-calculator-agent)
+
+Natural-language calculations powered by a tool-calling agent, with authenticated accounts and conversations that persist between sessions.
+
+`LangGraph` · `FastAPI` · `Gemini` · `PostgreSQL` · `JavaScript / Vite`
+
+<details>
+<summary><b>Inside Arithma</b> — tools, memory, and authentication</summary>
+
+- Routes arithmetic through dedicated tools in a LangGraph workflow.
+- Saves conversation checkpoints in PostgreSQL for multi-turn sessions.
+- Includes email verification, JWT authentication, and a web interface.
+
+[Explore the code and setup →](https://github.com/MSaad-10/langgraph-calculator-agent#readme)
+
+</details>
+
+### 🎙️ [AI Recruiter · Voice Screening Prototype](https://github.com/MSaad-10/ai-recruiter-voice-assistant)
+
+A voice-screening workflow that connects candidate conversations to structured answers, rule-based eligibility checks, and interview scheduling.
+
+`Vapi` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JavaScript / Vite`
+
+<details>
+<summary><b>Inside the voice workflow</b> — conversation to scheduling</summary>
+
+- Connects Vapi voice agents to backend tools for verification and screening.
+- Collects structured responses and evaluates eligibility with deterministic rules.
+- Coordinates interview slots and booking through the application backend.
+
+[Explore the code and setup →](https://github.com/MSaad-10/ai-recruiter-voice-assistant#readme)
+
+</details>
+
+### ▶️ [YouTube RAG Chatbot](https://github.com/MSaad-10/yt_rag_chatbot)
+
+Ask questions about a YouTube video and follow timestamped citations back to the relevant moments.
+
+`LangChain` · `OpenAI` · `FAISS` · `Streamlit` · `PostgreSQL`
+
+<details>
+<summary><b>Inside video Q&A</b> — transcripts, retrieval, and citations</summary>
+
+- Retrieves relevant transcript passages through per-video semantic indexes.
+- Connects answers to source timestamps for easier checking and navigation.
+- Combines a Streamlit interface with persisted transcripts in PostgreSQL.
+
+[Explore the code and setup →](https://github.com/MSaad-10/yt_rag_chatbot#readme)
+
+</details>
+
+### 📄 [AI Medical Assistant · Document RAG](https://github.com/MSaad-10/ai-medical-assistant)
+
+A medical-document Q&A project exploring PDF ingestion, retrieval, streamed responses, and conversation exports.
+
+`FastAPI` · `LangChain` · `Gemini` · `Redis` · `SQLite`
+
+<details>
+<summary><b>Inside document chat</b> — PDFs to streamed answers</summary>
+
+- Extracts PDF text with PyMuPDF and indexes document chunks for retrieval.
+- Uses Redis vector search and Gemini to build responses from document context.
+- Includes authentication, session history, SSE streaming, and PDF exports.
+
+[Explore the code and setup →](https://github.com/MSaad-10/ai-medical-assistant#readme)
+
+</details>
+
+**More conversation experiments:** [LangChain + Gemini Chatbot](https://github.com/MSaad-10/langchain-gemini-chatbot) — a modular Python chatbot for context-aware conversations.
+
+[Browse all repositories →](https://github.com/MSaad-10?tab=repositories)
+
+## Toolbox
+
+Technologies used across these projects.
+
+**Python & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+**Agents & retrieval**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=flat-square)
+
+**Data & interfaces**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=181717)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+## Learning
+
+Building projects and documenting the fundamentals behind them.
+
+- **[Python Journey](https://github.com/MSaad-10/python-journey)** — chapter-based notes, runnable examples, and exercises covering Python fundamentals through OOP, decorators, generators, and file handling.
+- **[FastAPI Journey](https://github.com/MSaad-10/fastapi-journey)** — concept-by-concept examples from my FastAPI learning and practice.
+
+## Connect
+
+I'm happy to talk about Python, APIs, AI agents, and what you're building.
+
+**[LinkedIn](https://www.linkedin.com/in/muhammad-saad-271197329/)** · **[mail.saad0011@gmail.com](mailto:mail.saad0011@gmail.com)** · **[GitHub](https://github.com/MSaad-10)**
 
 ---
-
-## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+<i>I do it for the commit.</i>
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[Back to top ↑](#hi-im-muhammad-saad-)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=70&section=footer" width="100%" alt="" />
 
 </div>
-
----
-## 🌟 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌍 TravelSphere  
-Entry-level travel web application built using **HTML & CSS**, focused on UI structure and frontend fundamentals.
-
-- 🖥️ Designed clean and structured web layouts using HTML & CSS  
-- 🎨 Focused on UI design principles like spacing, alignment, and hierarchy  
-- 📱 Basic responsive layout for different screen sizes  
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📥 Online Voting System  
-Console-based voting system developed using **C++ and MySQL** with secure data storage and structured logic implementation.
-
-- 🗳️ Implemented secure voting and result calculation system  
-- 💾 Integrated MySQL database for persistent data storage  
-- 🔐 Added input validation and controlled access flow  
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</td>
-</tr>
-
-<tr>
-  <td width="50%" valign="top">
-
-### 💬 WuiiChat  
-Python socket-based chat application enabling real-time communication with multiple media support.
-
-- 💬 Real-time text messaging using socket programming  
-- 🎤 Audio communication feature implementation  
-- 📹 Basic video communication support  
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sockets-000000?style=flat-square&logo=python&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👾 Monster Dash  
-Scratch 3 platformer game inspired by **Geometry Dash**, focused on timing, reflexes, and gameplay flow.
-
-- 🎮 Built using Scratch 3 visual programming environment  
-- ⏱️ Focused on timing-based obstacle navigation mechanics  
-- 🧠 Strengthened logic building and game design fundamentals  
-
-<img src="https://img.shields.io/badge/Scratch-FF6F00?style=flat-square&logo=scratch&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-| 🌐 Platform | 🔗 Link |
-|:-----------:|:-------:|
-| 💼 LinkedIn | [linkedin.com/in/muhammad-saad](https://www.linkedin.com/in/muhammad-saad-271197329/) |
-| 📧 Email | [mail.saad0011@gmail.com](mailto:mail.saad0011@gmail.com) |
-| 🐙 GitHub | [github.com/MSaad-10](https://github.com/MSaad-10) |
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-271197329/)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.saad0011@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Building with today's code, evolving with tomorrow's AI, and shaping the future through intelligent systems."* 🚀
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> -->
-
-</div>
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/> </div>

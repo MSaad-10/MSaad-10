@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="56" viewBox="0 0 420 56" role="img" aria-labelledby="title desc">
+  <title id="title">What I build</title>
+  <desc id="desc">AI agents, Python APIs, RAG applications, and voice workflows.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#0891b2"/>
+      <stop offset=".5" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, "SFMono-Regular", Consolas, monospace; font-size: 16px; }
+    .topic { opacity: 0; animation: cycle 16s linear infinite; }
+    .one { opacity: 1; animation-name: first; }
+    .two { animation-delay: 4s; }
+    .three { animation-delay: 8s; }
+    .four { animation-delay: 12s; }
+    @keyframes first { 0%, 20%, 100% { opacity: 1; } 25%, 95% { opacity: 0; } }
+    @keyframes cycle { 0%, 25%, 100% { opacity: 0; } 5%, 20% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .topic { animation: none; opacity: 0; }
+      .one { opacity: 1; }
+    }
+  </style>
+  <rect x="1" y="1" width="418" height="54" rx="12" fill="#0d1117" stroke="url(#edge)" stroke-width="1.5"/>
+  <circle cx="23" cy="28" r="4" fill="#22d3ee"/>
+  <text x="41" y="34" fill="#a3b5cc">building /</text>
+  <g fill="#e6edf3">
+    <text class="topic one" x="157" y="34">AI agents</text>
+    <text class="topic two" x="157" y="34">Python APIs</text>
+    <text class="topic three" x="157" y="34">RAG applications</text>
+    <text class="topic four" x="157" y="34">voice workflows</text>
+  </g>
+  <path d="M389 22l6 6-6 6" fill="none" stroke="#8b95ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
