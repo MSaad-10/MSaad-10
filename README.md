@@ -4,11 +4,13 @@
 
 <p><em>Building AI agents, useful APIs, and conversations with context.</em></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI%2FML+Engineer;Python+Developer;AI+Agents+%7C+RAG+%7C+Voice+Workflows;Based+in+Lahore%2C+Pakistan" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI%2FML+Engineer;Python+Developer;AI+Agents+%7C+RAG+%7C+Voice+Workflows;Based+in+Lahore%2C+Pakistan" alt="Typing SVG" />
+</p>
 
-<img src="./assets/focus.svg" width="440" alt="Currently building: AI agents, Python APIs, RAG applications, and voice workflows." />
-
-<br/>
+<p>
+  <img src="./assets/focus.svg" width="440" alt="Currently building: AI agents, Python APIs, RAG applications, and voice workflows." />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-271197329/)
 [![Email](https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.saad0011@gmail.com)
@@ -186,22 +188,22 @@ I'm always building something new — follow along on GitHub.
 
 ### 🤖 AI Engineering & LLMs
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,regex,langchain,llamaindex,huggingface,ollama" alt="AI Engineering & LLMs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,regex,latex,langchain,llamaindex,huggingface,ollama" alt="AI Engineering & LLMs" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=300" />
 
-`Python` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangChain` `LangGraph` `ChromaDB` `Agentic AI` `AI Agents` `Multi-Agent Systems` `MCP`
+`Python` `LaTeX` `regex` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangChain` `LangGraph` `ChromaDB` `Agentic AI` `AI Agents` `Multi-Agent Systems` `MCP`
 
 </td>
 <td align="center" width="50%">
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,supabase,sqlite,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,mysql,supabase,sqlite,redis&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=339933&height=2&width=300" />
 
-`Python` `FastAPI` `PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis` `Supabase` `Database Design`
+`Python` `FastAPI` `PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis` `Supabase` `Database Design` 
 
 </td>
 </tr>
@@ -211,22 +213,22 @@ I'm always building something new — follow along on GitHub.
 
 ### 🌐 Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=tailwind&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
 
- `Tailwind CSS`
+ `Tailwind CSS` `CSS` `HTML` `JavaScript`
 
 </td>
 <td align="center" width="50%">
 
 ### ☁️ DevOps, Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,vscode,visualstudio,obsidian,postman,powershell,pycharm,stackoverflow,anaconda&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,vscode,visualstudio,obsidian,postman,powershell,pycharm,stackoverflow,anaconda,bash,netlify&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2496ED&height=2&width=300" />
 
-`AWS` `Docker` `Git` `GitHub` `GitHub Actions (CI/CD)` `GitLab` `Vercel` `Postman` `Cursor AI` `Copilot` `Claude Code` `Obsidian` `PowerShell` `PyCharm` `Stack Overflow` `Anaconda`
+`AWS` `Docker` `Git` `GitHub` `GitHub Actions (CI/CD)` `GitLab` `Vercel` `Postman` `Cursor AI` `Copilot` `Claude Code` `Obsidian` `PowerShell` `PyCharm` `Stack Overflow` `Anaconda` `Bash` `Netlify`
 
 </td>
 </tr>
