@@ -176,63 +176,57 @@ I'm always building something new — follow along on GitHub.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technical Stack
 
 <div align="center">
 
-<table border="0">
+<table>
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/──%20🐍%20Core%20Language%20%26%20APIs%20──-0891B2?style=for-the-badge&labelColor=0d1117&color=0891B2" />
+### 🤖 AI Engineering & LLMs
 
-<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,regex,langchain,llamaindex,huggingface,ollama" alt="AI Engineering & LLMs" />
 
-[![](https://skillicons.dev/icons?i=python,fastapi&theme=dark)](https://skillicons.dev)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=300" />
 
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="40" />
+`Python` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangChain` `LangGraph` `ChromaDB` `Agentic AI` `AI Agents` `Multi-Agent Systems` `MCP`
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/──%20🗄️%20Databases%20%26%20Storage%20──-2563EB?style=for-the-badge&labelColor=0d1117&color=2563EB" />
+### ⚙️ Backend & Databases
 
-<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,supabase,sqlite,redis&perline=6" />
 
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#2396ED" rx="60"/><path fill="#fff" d="M141.187 122.123H161.904V103.379H141.187V122.123ZM116.525 122.123H137.241V103.379H116.525V122.123ZM92.3554 122.123H113.072V103.379H92.3554V122.123ZM68.1859 122.123H88.4093V103.379H68.1859V122.123ZM43.5233 122.123H64.2399V103.379H43.5233V122.123ZM68.1859 99.4333H88.4093V80.6896H68.1859V99.4333ZM92.3554 99.4333H113.072V80.6896H92.3554V99.4333ZM116.525 99.4333H137.241V80.6896H116.525V99.4333ZM116.525 76.7436H137.241V58H116.525V76.7436ZM228 113.738C228 113.738 219.121 105.352 200.871 108.312C198.898 94.0075 183.607 85.6222 183.607 85.6222C183.607 85.6222 169.303 102.886 179.661 122.123C176.702 123.603 171.769 125.576 164.37 125.576H28.7257C26.2594 134.948 26.2594 197.097 94.3284 197.097C143.16 197.097 179.661 174.408 196.925 132.974C222.574 134.948 228 113.738 228 113.738Z"/></svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=339933&height=2&width=300" />
 
-[![](https://skillicons.dev/icons?i=postgres,redis,sqlite&theme=dark)](https://skillicons.dev)
+`Python` `FastAPI` `PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis` `Supabase` `Database Design`
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/──%20🤖%20AI%20·%20Agents%20·%20RAG%20──-7C3AED?style=for-the-badge&labelColor=0d1117&color=7C3AED" />
+### 🌐 Frontend & Mobile
 
-<br/>
+<img src="https://skillicons.dev/icons?i=tailwind&perline=6" />
 
-[![](https://skillicons.dev/icons?i=openai&theme=dark)](https://skillicons.dev)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge&logoColor=white" height="40" />
+ `Tailwind CSS`
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/──%20🖥️%20Interfaces%20%26%20Frontend%20──-22D3EE?style=for-the-badge&labelColor=0d1117&color=22D3EE" />
+### ☁️ DevOps, Cloud & Tools
 
-<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,vscode,visualstudio,obsidian,postman,powershell,pycharm,stackoverflow,anaconda&perline=6" />
 
-[![](https://skillicons.dev/icons?i=js,vite,html&theme=dark)](https://skillicons.dev)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2496ED&height=2&width=300" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" />
+`AWS` `Docker` `Git` `GitHub` `GitHub Actions (CI/CD)` `GitLab` `Vercel` `Postman` `Cursor AI` `Copilot` `Claude Code` `Obsidian` `PowerShell` `PyCharm` `Stack Overflow` `Anaconda`
 
 </td>
 </tr>
@@ -242,54 +236,12 @@ I'm always building something new — follow along on GitHub.
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MSaad-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7C3AED&text_color=a3b5cc&count_private=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSaad-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=a3b5cc&langs_count=6" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MSaad-10&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=7C3AED&currStreakLabel=22d3ee&sideLabels=a3b5cc&dates=a3b5cc" alt="GitHub Streak" />
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-## 📚 Learning in Public
-
-> Building projects and documenting the fundamentals behind them.
-
-<br/>
-
-| Repository | Description |
-|---|---|
-| 📗 **[Python Journey](https://github.com/MSaad-10/python-journey)** | Chapter-based notes, runnable examples, and exercises — Python fundamentals through OOP, decorators, generators, and file handling |
-| ⚡ **[FastAPI Journey](https://github.com/MSaad-10/fastapi-journey)** | Concept-by-concept examples from my FastAPI learning and practice |
-
----
-
-## 🤝 Let's Connect
-
-I'm happy to talk about Python, APIs, AI agents, and what you're building.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-271197329/)
-[![Email](https://img.shields.io/badge/Gmail-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.saad0011@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSaad-10)
-
-</div>
-
----
-
-<div align="center">
-
-<i>I do it for the commit.</i>
-
-[Back to top ↑](#hi-im-muhammad-saad-)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=80&section=footer" width="100%" alt="" />
 
