@@ -188,11 +188,10 @@ I'm always building something new — follow along on GitHub.
 
 ### 🤖 AI Engineering & LLMs
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,regex,latex,langchain,llamaindex,huggingface,ollama" alt="AI Engineering & LLMs" />
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,regex,latex,langchain,llamaindex,mcp,huggingface,ollama,gemini,claude,antigravity,chatgpt&perline=6" alt="AI Engineering & LLMs" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=300" />
 
-`Python` `LaTeX` `regex` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangChain` `LangGraph` `ChromaDB` `Agentic AI` `AI Agents` `Multi-Agent Systems` `MCP`
+`Python` `LaTeX` `regex` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangChain` `LangGraph` `ChromaDB` `Agentic AI` `AI Agents` `Multi-Agent Systems` `MCP` `Gemini` `OpenAI` `Claude` `Antigravity`
 
 </td>
 <td align="center" width="50%">
@@ -213,11 +212,11 @@ I'm always building something new — follow along on GitHub.
 
 ### 🌐 Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
 
- `Tailwind CSS` `CSS` `HTML` `JavaScript`
+ `Tailwind CSS` `CSS` `HTML` `JavaScript` `Vite`
 
 </td>
 <td align="center" width="50%">
