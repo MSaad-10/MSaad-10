@@ -184,48 +184,51 @@ I'm always building something new — follow along on GitHub.
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### 🤖 AI Engineering & LLMs
+<h3><font size="+1">🤖 AI Engineering & LLMs</font></h3>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,regex,latex,langchain,llamaindex,mcp,huggingface,ollama,gemini,claude,antigravity,chatgpt&perline=6" alt="AI Engineering & LLMs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,regex,latex,langchain,llamaindex,mcp,huggingface,ollama,gemini,claude,antigravity,chatgpt,cursor&perline=6" alt="AI Engineering & LLMs" />
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=300" />
 
-`Python` `regex` `LaTeX` `LangChain` `Llamaindex` `MCP` `Hugging Face` `Ollama` `Gemini` `Claude` `Antigravity` `OpenAI` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangGraph` `Agentic AI` `AI Agents` `Multi-Agent Systems`    
+`Python` `regex` `LaTeX` `LangChain` `Llamaindex` `MCP` `Hugging Face` `Ollama` `Gemini` `Claude` `Antigravity` `OpenAI` `Cursor AI` `Copilot` `Claude Code` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangGraph` `Agentic AI` `AI Agents` `Multi-Agent Systems`    
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### ⚙️ Backend & Databases
+<h3><font size="+1">⚙️ Backend & Databases</font></h3>
 
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,mysql,supabase,sqlite,redis&perline=6" />
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,mongodb,postgres,mysql,supabase,sqlite,redis&perline=6" alt="Backend & Databases" />
+<br/><br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=339933&height=2&width=300" />
 
-`FastAPI` `MongoDB` `PostgreSQL` `MySQL` `Supabase` `SQLite` `Redis` `SQL Server` `Database Design` 
+`FastAPI` `MongoDB` `PostgreSQL` `MySQL` `Supabase` `SQLite` `Redis` `SQL Server` `Database Design` `ChromaDB` `FAISS`
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### 🌐 Frontend
+<h3><font size="+1">🌐 Frontend</font></h3>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,vite,streamlit,qt&perline=6" alt="AI Engineering & LLMs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,vite,streamlit,qt&perline=6" alt="Frontend" />
+<br/><br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
 
- `HTML` `CSS` `Tailwind CSS` `JavaScript` `Vite` `Streamlit` `Qt` `Tkinter`
+ `HTML` `CSS` `Tailwind CSS` `JavaScript` `Vite` `Streamlit` `Qt` `Tkinter` 
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### ☁️ DevOps, Cloud & Tools
+<h3><font size="+1">☁️ DevOps, Cloud & Tools</font></h3>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,git,github,vercel,netlify,vscode,visualstudio,obsidian,postman,powershell,pycharm,stackoverflow,anaconda,bash,cursor&perline=6" alt="AI Engineering & LLMs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,git,github,vercel,netlify,vscode,visualstudio,obsidian,postman,powershell,pycharm,stackoverflow,anaconda,bash&perline=6" alt="DevOps, Cloud & Tools" />
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2496ED&height=2&width=300" />
 
-`Docker` `AWS` `Git` `GitHub` `Vercel` `Netlify` `VS Code` `Visual Studio` `Obsidian` `Postman` `PowerShell` `PyCharm` `Stack Overflow` `Anaconda` `Bash` `Cursor AI` `Copilot` `Claude Code`       
+`Docker` `AWS` `Git` `GitHub` `Vercel` `Netlify` `VS Code` `Visual Studio` `Obsidian` `Postman` `PowerShell` `PyCharm` `Stack Overflow` `Anaconda` `Bash`       
 
 </td>
 </tr>
