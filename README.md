@@ -191,7 +191,7 @@ I'm always building something new — follow along on GitHub.
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,regex,latex,langchain,llamaindex,mcp,huggingface,ollama,gemini,claude,antigravity,chatgpt&perline=6" alt="AI Engineering & LLMs" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=300" />
 
-`Python` `LaTeX` `regex` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangChain` `LangGraph` `ChromaDB` `Agentic AI` `AI Agents` `Multi-Agent Systems` `MCP` `Gemini` `OpenAI` `Claude` `Antigravity`
+`Python` `regex` `LaTeX` `LangChain` `Llamaindex` `MCP` `Hugging Face` `Ollama` `Gemini` `Claude` `Antigravity` `OpenAI` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM` `RAG Pipelines` `LangGraph` `Agentic AI` `AI Agents` `Multi-Agent Systems`    
 
 </td>
 <td align="center" width="50%">
@@ -202,7 +202,7 @@ I'm always building something new — follow along on GitHub.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=339933&height=2&width=300" />
 
-`Python` `FastAPI` `PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis` `Supabase` `Database Design` 
+`FastAPI` `MongoDB` `PostgreSQL` `MySQL` `Supabase` `SQLite` `Redis` `SQL Server` `Database Design` 
 
 </td>
 </tr>
@@ -210,23 +210,22 @@ I'm always building something new — follow along on GitHub.
 <tr>
 <td align="center" width="50%">
 
-### 🌐 Frontend & Mobile
+### 🌐 Frontend
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,vite,streamlit,qt&perline=6" alt="AI Engineering & LLMs" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
 
- `HTML` `CSS` `Tailwind CSS` `JavaScript` `Vite` `Streamlit` `Qt`
+ `HTML` `CSS` `Tailwind CSS` `JavaScript` `Vite` `Streamlit` `Qt` `Tkinter`
 
 </td>
 <td align="center" width="50%">
 
 ### ☁️ DevOps, Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,vscode,visualstudio,obsidian,postman,powershell,pycharm,stackoverflow,anaconda,bash,netlify&perline=6" />
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,git,github,vercel,netlify,vscode,visualstudio,obsidian,postman,powershell,pycharm,stackoverflow,anaconda,bash,cursor&perline=6" alt="AI Engineering & LLMs" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2496ED&height=2&width=300" />
 
-`AWS` `Docker` `Git` `GitHub` `GitHub Actions (CI/CD)` `GitLab` `Vercel` `Postman` `Cursor AI` `Copilot` `Claude Code` `Obsidian` `PowerShell` `PyCharm` `Stack Overflow` `Anaconda` `Bash` `Netlify`
+`Docker` `AWS` `Git` `GitHub` `Vercel` `Netlify` `VS Code` `Visual Studio` `Obsidian` `Postman` `PowerShell` `PyCharm` `Stack Overflow` `Anaconda` `Bash` `Cursor AI` `Copilot` `Claude Code`       
 
 </td>
 </tr>
