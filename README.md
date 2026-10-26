@@ -212,11 +212,10 @@ I'm always building something new — follow along on GitHub.
 
 ### 🌐 Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite&perline=6" />
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,vite,streamlit,qt&perline=6" alt="AI Engineering & LLMs" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
 
- `Tailwind CSS` `CSS` `HTML` `JavaScript` `Vite`
+ `HTML` `CSS` `Tailwind CSS` `JavaScript` `Vite` `Streamlit` `Qt`
 
 </td>
 <td align="center" width="50%">
